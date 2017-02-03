@@ -1,3 +1,1 @@
-I cannot create an "Issue" so I am forking.
-
-What is the correct dependency_link for arelle?
+'git+https://github.com/Arelle/Arelle.git#egg=arelle-2.0'
